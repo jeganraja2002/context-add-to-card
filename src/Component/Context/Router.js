@@ -13,7 +13,7 @@ const Router = () => {
 
     return(
         <Context.Provider value={{state,setState}}>
-            <BrowserRouter>
+            <BrowserRouter basename={process.env.PUBLIC_URL}>
                 <Routes>
                     <Route path="/" element={<Home/>}/>
                     <Route path="/like" element={<Favourite/>}/>
