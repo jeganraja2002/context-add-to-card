@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/context-add-to-card/static/css/main.51cb6a89.css",
+    "main.js": "/context-add-to-card/static/js/main.2579a18f.js",
+    "static/js/787.da0d029b.chunk.js": "/context-add-to-card/static/js/787.da0d029b.chunk.js",
+    "static/media/logo.png": "/context-add-to-card/static/media/logo.c838e6c155b59066d230.png",
+    "static/media/slick.svg": "/context-add-to-card/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/context-add-to-card/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/context-add-to-card/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/context-add-to-card/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/context-add-to-card/index.html",
+    "main.51cb6a89.css.map": "/context-add-to-card/static/css/main.51cb6a89.css.map",
+    "main.2579a18f.js.map": "/context-add-to-card/static/js/main.2579a18f.js.map",
+    "787.da0d029b.chunk.js.map": "/context-add-to-card/static/js/787.da0d029b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51cb6a89.css",
+    "static/js/main.2579a18f.js"
+  ]
+}
